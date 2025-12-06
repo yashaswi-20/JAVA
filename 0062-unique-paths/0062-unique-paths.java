@@ -1,19 +1,3 @@
-class Pair{
-    int x,y;
-    Pair(int x,int y){
-        this.x=x;
-        this.y=y;
-    }
-        public boolean equals(Object o){
-            Pair p=(Pair)o;
-
-            return p.x==x && p.y==y;
-        }
-        public int hashCode(){
-            return 31*x+y;
-        }
-    
-}
 
 class Solution {
     HashMap<String,Integer>map=new HashMap<>();
