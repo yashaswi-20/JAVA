@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashaswi-20/JAVA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/yashaswi-20/JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashaswi-20/JAVA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/yashaswi-20/JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yashaswi-20/JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
