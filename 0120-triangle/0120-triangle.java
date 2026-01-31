@@ -1,7 +1,6 @@
 class Solution {
     int compute(List<List<Integer>>arr,int r,int c,int lr,int dp[][]){
         if(r==lr-1)return arr.get(r).get(c);
-        if(c>arr.get(r).size()-1)return 0;
         if(dp[r][c]!=12000)return dp[r][c];
         int same=compute(arr,r+1,c,lr,dp)+arr.get(r).get(c);
         int next=compute(arr,r+1,c+1,lr,dp)+arr.get(r).get(c);
