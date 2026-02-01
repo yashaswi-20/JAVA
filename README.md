@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/yashaswi-20/JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
+| [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -39,9 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/yashaswi-20/JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
+| [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
