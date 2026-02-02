@@ -1,7 +1,7 @@
 class Solution {
     int helper(int [][]arr,int r,int c,int dp[][]){
         int n=arr.length;
-        if(r>n-1)return 0;
+        if(r==n-1)return arr[r][c];
         int min=Integer.MAX_VALUE;
         if(dp[r][c]!=200)return dp[r][c];
         int down=helper(arr,r+1,c,dp)+arr[r][c];
