@@ -1,29 +1,32 @@
-// class Solution {
-//         int helper(int nums[],int i,int n,int dp[]){
-//             if(i==n-1)return nums[i];
-//             if(i>=n)return 0;
-//             if(dp[i]!=-1)return dp[i];
-//             int pick=helper(nums,i+2,n,dp)+ nums[i];
-//             int skip=helper(nums,i+1,n,dp);
-//             return dp[i]= Math.max(pick,skip);
-//         }
-//     public int rob(int[] nums) {
-//         int dp[]=new int[nums.length];
-//         Arrays.fill(dp,-1);
-//         return helper(nums,0,nums.length,dp);
-//     }
-// }
 class Solution {
-    public int rob(int[] nums) {
-        int n = nums.length;
-       // if (n == 0) return 0;
-
-        int[] dp = new int[n + 2];  // extra space avoids bounds checks
-
-        for (int i = n - 1; i >= 0; i--) {
-            dp[i] = Math.max(nums[i] + dp[i + 2], dp[i + 1]);
+    int nums[];
+    int dp[][];
+  
+    int n;
+    
+    int helper(int i,int prev ){
+        if(i==n)return 0;
+        if(dp[i][prev]!=-1)return dp[i][prev];
+        int skip=helper(i+1,0);
+        boolean cantake=true;
+        if(prev==1){
+        cantake=false;
         }
-
-        return dp[0];
+        int take=0;
+        if(cantake){
+             take=nums[i]+helper(i+1,1);
+        }
+        return dp[i][prev]=Math.max(skip,take);
+    }
+    public int rob(int[] nums) {
+        this.nums=nums;
+       
+        this.n=nums.length;
+        dp=new int[n][2];
+        for(int i=0;i<n;i++){
+            dp[i][0]=-1;
+            dp[i][1]=-1;
+        }
+        return helper(0,0);
     }
 }
