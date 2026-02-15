@@ -13,7 +13,7 @@ class Solution {
         cantake=false;
         }
         int take=0;
-        if(cantake){
+        if(prev==0){
              take=nums[i]+helper(i+1,1);
         }
         return dp[i][prev]=Math.max(skip,take);
