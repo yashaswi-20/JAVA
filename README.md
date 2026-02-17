@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/yashaswi-20/JAVA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/yashaswi-20/JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/yashaswi-20/JAVA/tree/master/0416-partition-equal-subset-sum) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/yashaswi-20/JAVA/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yashaswi-20/JAVA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yashaswi-20/JAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
