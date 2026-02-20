@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yashaswi-20/JAVA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/yashaswi-20/JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashaswi-20/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/yashaswi-20/JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/yashaswi-20/JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashaswi-20/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashaswi-20/JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
