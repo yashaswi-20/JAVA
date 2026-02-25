@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yashaswi-20/JAVA/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/yashaswi-20/JAVA/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
