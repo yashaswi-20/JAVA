@@ -24,10 +24,10 @@ class Solution {
                 i--;
                 j--;
             }
-            else if(dp[i-1][j]>dp[i][j-1]){
-                i--;
-            }else{
+            else if(dp[i-1][j]<dp[i][j-1]){
                 j--;
+            }else{
+                i--;
             }
         }
         StringBuilder sb=new StringBuilder(lcs);
