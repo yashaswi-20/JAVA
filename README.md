@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yashaswi-20/JAVA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/yashaswi-20/JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashaswi-20/JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/yashaswi-20/JAVA/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/yashaswi-20/JAVA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yashaswi-20/JAVA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0516-longest-palindromic-subsequence) |
