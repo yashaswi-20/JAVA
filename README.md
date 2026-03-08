@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/yashaswi-20/JAVA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/yashaswi-20/JAVA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/yashaswi-20/JAVA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yashaswi-20/JAVA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0516-longest-palindromic-subsequence) |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/yashaswi-20/JAVA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashaswi-20/JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
