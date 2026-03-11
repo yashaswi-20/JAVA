@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/yashaswi-20/JAVA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yashaswi-20/JAVA/tree/master/0115-distinct-subsequences) |
+| [0459-repeated-substring-pattern](https://github.com/yashaswi-20/JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashaswi-20/JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/yashaswi-20/JAVA/tree/master/1092-shortest-common-supersequence) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashaswi-20/JAVA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/yashaswi-20/JAVA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
