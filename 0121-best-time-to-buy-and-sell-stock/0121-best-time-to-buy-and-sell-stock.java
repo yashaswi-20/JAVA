@@ -25,13 +25,13 @@ class Solution {
     //         }
     //     }
     //    return dp[n-1][n-1];
-        int mini=prices[0];
-        int profit=0;
-        for(int i=1;i<n;i++){
-            int cost=prices[i]-mini;
-            profit=Math.max(profit,cost);
-            mini=Math.min(mini,prices[i]);
-        }
-        return profit;
+    int buy=prices[0];
+    int profit=0;
+    for(int i=1;i<n;i++){
+        int sell=prices[i]-buy;
+        profit=Math.max(profit,sell);
+        buy=Math.min(buy,prices[i]);
+    }
+     return profit;
     }
 }
