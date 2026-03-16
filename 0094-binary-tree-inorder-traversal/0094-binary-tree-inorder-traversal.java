@@ -21,6 +21,7 @@ class Solution {
         list.add(root.val);
         inorder(root.right);
     }
+    
     public List<Integer> inorderTraversal(TreeNode root) {
         inorder(root);
         return list;
