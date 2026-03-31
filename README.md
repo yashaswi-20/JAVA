@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yashaswi-20/JAVA/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yashaswi-20/JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/yashaswi-20/JAVA/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashaswi-20/JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/yashaswi-20/JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/yashaswi-20/JAVA/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/yashaswi-20/JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/yashaswi-20/JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashaswi-20/JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
