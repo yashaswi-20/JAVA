@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashaswi-20/JAVA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/yashaswi-20/JAVA/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashaswi-20/JAVA/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashaswi-20/JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/yashaswi-20/JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/0876-middle-of-the-linked-list) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashaswi-20/JAVA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashaswi-20/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Trie
