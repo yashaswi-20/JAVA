@@ -14,9 +14,8 @@ class Solution {
             if((j-i+1)-maxfreq<=k){
                 maxlen=Math.max(maxlen,j-i+1); 
             }else{
-                while( (j-i+1)-maxfreq!=k){
+                while( (j-i+1)-maxfreq>k){
                     freq[s.charAt(i)-'A']--;
-                   
                     i++;
                 }
             }
