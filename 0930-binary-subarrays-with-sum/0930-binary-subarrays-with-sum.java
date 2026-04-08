@@ -14,16 +14,16 @@ class Solution {
             int add=map.getOrDefault(0,0);
              map.put(prefix[i],map.getOrDefault(prefix[i],0)+1);
             res+=add+1;
-            System.out.println('a');
+            //System.out.println('a');
         }
         else if(prefix[i]>goal){
             int check=prefix[i]-goal;
             int add=map.getOrDefault(check,0);
              map.put(prefix[i],map.getOrDefault(prefix[i],0)+1);
-            System.out.println('b');
+           // System.out.println('b');
             res+=add;
         }else{
-            System.out.println('c');
+           // System.out.println('c');
 
             map.put(prefix[i],map.getOrDefault(prefix[i],0)+1);
         }
