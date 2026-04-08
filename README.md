@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashaswi-20/JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashaswi-20/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
+| [0303-range-sum-query-immutable](https://github.com/yashaswi-20/JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashaswi-20/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/0494-target-sum) |
@@ -186,5 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/yashaswi-20/JAVA/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashaswi-20/JAVA/tree/master/1004-max-consecutive-ones-iii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yashaswi-20/JAVA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
