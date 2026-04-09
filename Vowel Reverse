@@ -1,0 +1,52 @@
+/******************************************************************************
+
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+
+public class Main
+{
+    static boolean check(String str, int r){
+        if(str.charAt(r)=='a' ||str.charAt(r)=='e' ||str.charAt(r)=='i' ||str.charAt(r)=='o' ||
+        str.charAt(r)=='u'){
+            return true;
+        }
+        return false;
+    }
+    static String[] solve(String[] arr){
+        String res[]=new String[arr.length];
+        for(int i=0;i<arr.length;i++){
+            if(arr[i].length()<=2){
+                res[i] = arr[i];
+                continue;
+            }
+            int left=1;
+            int right=arr[i].length()-2;
+            if(check(arr[i],arr[i].length()-1) && check(arr[i],0)){
+                StringBuilder sb=new StringBuilder(arr[i]);
+                while(left<right){
+                    Character temp=sb.charAt(left);
+                    sb.setCharAt(left,sb.charAt(right));
+                    sb.setCharAt(right,temp);
+                    left++;
+                    right--;
+                }
+                res[i]=sb.toString();
+            }else{
+                res[i]=arr[i];
+            }
+            
+        }
+        return res;
+    }
+	public static void main(String[] args) {
+		String []arr=new String []{"apple", "orange", "i", "ae","banana","abce"};
+		String []r=solve(arr);
+		for(int i=0;i<r.length;i++){
+		    System.out.println(r[i]);
+		}
+		return;
+	}
+}
