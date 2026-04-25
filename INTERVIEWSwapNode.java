@@ -17,7 +17,7 @@ public class Main {
             check++;
             temp=temp.next;
         }
-        if(left<0 || right>check ){
+        if(left<0 || right>=check || left>right ){
             return null;
         }
         if(left==right)return head;
@@ -57,8 +57,8 @@ public class Main {
                 temp4.next = temp2;        // 3 -> 2   ✅ THIS was missing
                 temp2.next = temp5;        // 2 -> 4
 
-                return temp1;
-            }
+                return head;
+            }else{
 
             temp1.next = temp4;
             Node temp5 = temp4.next;
@@ -66,6 +66,7 @@ public class Main {
             temp3.next = temp2;
             temp2.next = temp5;
             return temp1;
+            }
         }
     }
 
@@ -152,7 +153,7 @@ public class Main {
     public static void main(String[] args) {
 
         // 🧪 JUDGE TEST SUITE
-        runTest(0, new int[]{1,2,3,4,5}, 0, 2, new int[]{3,2,1,4,5});
+          // 🧪 ORIGINAL TESTS
         runTest(1, new int[]{1,2,3,4,5}, 1, 3, new int[]{1,4,3,2,5});
         runTest(2, new int[]{1,2,3,4,5}, 0, 4, new int[]{5,2,3,4,1});
         runTest(3, new int[]{1,2,3,4}, 1, 2, new int[]{1,3,2,4});
@@ -160,8 +161,20 @@ public class Main {
         runTest(5, new int[]{1,2}, 0, 1, new int[]{2,1});
         runTest(6, new int[]{1}, 0, 0, new int[]{1});
 
-        // 🔥 edge breakers
+        // 🔥 EDGE CASES
         runTest(7, new int[]{1,2,3}, -1, 2, new int[]{});
         runTest(8, new int[]{1,2,3}, 0, 10, new int[]{});
+        runTest(9, new int[]{1,2,3}, 0, 3, new int[]{});
+        runTest(10, new int[]{1,2,3,4}, 3, 1, new int[]{});
+        runTest(11, new int[]{}, 0, 0, new int[]{});
+        runTest(12, new int[]{1}, 0, 1, new int[]{});
+
+        // ⚡ STRESS CASES
+        runTest(13, new int[]{1,2,3,4,5,6,7}, 1, 5, new int[]{1,6,3,4,5,2,7});
+        runTest(14, new int[]{1,2,3}, 0, 1, new int[]{2,1,3});
+        runTest(15, new int[]{1,2,3,4,5}, 3, 4, new int[]{1,2,3,5,4});
+        runTest(16, new int[]{1,2,2,3}, 1, 2, new int[]{1,2,2,3});
+        runTest(17, new int[]{1,2,3}, 0, 2, new int[]{3,2,1});
+        runTest(18, new int[]{1,2,3,4,5}, 0, 3, new int[]{4,2,3,1,5});
     }
 }
