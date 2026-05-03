@@ -1,48 +1,60 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
 
-    // Merges two SORTED lists into one sorted list
-    ListNode merge(ListNode left, ListNode right) {
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
+    ListNode merge(ListNode left,ListNode right){
+      ListNode dummy =new ListNode(0);
+      ListNode temp=dummy;
 
-        while (left != null && right != null) {
-            if (left.val <= right.val) {
-                curr.next = left;
-                left = left.next;
-            } else {
-                curr.next = right;
-                right = right.next;
-            }
-            curr = curr.next;
+      while(left!=null && right!=null){
+        if(left.val<right.val){
+            temp.next=left;
+            left=left.next;
+        }else{
+            temp.next=right;
+            right=right.next;
         }
-
-        // Attach the remaining nodes
-        curr.next = (left != null) ? left : right;
-        return dummy.next;
+        temp=temp.next;
+      }
+      temp.next = (left != null) ? left : right;
+      return dummy.next;
     }
 
-    public ListNode sortList(ListNode head) {
-        // Base case: 0 or 1 node is already sorted
-        if (head == null || head.next == null) return head;
 
-        // Find the middle — start fast one step ahead to avoid
-        // slow == head on a 2-node list (which would cause infinite recursion)
-        ListNode slow = head;
-        ListNode fast = head.next;
+    ListNode split(ListNode head){
+        if(head==null || head.next==null)return head;
+        
+       
+     
+        ListNode slow=head;
+        ListNode fast=head.next.next;           
+        while(fast!=null && fast.next!=null){
+           
+                slow=slow.next;
+            
+            fast=fast.next.next;
 
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
         }
-
-        // Split into two halves
-        ListNode rightHead = slow.next;
-        slow.next = null;           // cut the list
-
-        // Recursively sort each half, then merge
-        ListNode left  = sortList(head);
-        ListNode right = sortList(rightHead);
-
-        return merge(left, right);
+        ListNode rightHead=slow.next;
+        slow.next=null;
+        ListNode leftNode=split(head);
+         
+        ListNode rightNode=split(rightHead);
+        return merge(leftNode,rightNode);
+        
+    }
+    public ListNode sortList(ListNode head) {
+       
+        //System.out.println(slow.val);
+       return split(head);
+      // return head;
     }
 }
