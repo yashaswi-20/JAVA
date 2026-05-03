@@ -1,28 +1,48 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
+
+    // Merges two SORTED lists into one sorted list
+    ListNode merge(ListNode left, ListNode right) {
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+
+        while (left != null && right != null) {
+            if (left.val <= right.val) {
+                curr.next = left;
+                left = left.next;
+            } else {
+                curr.next = right;
+                right = right.next;
+            }
+            curr = curr.next;
+        }
+
+        // Attach the remaining nodes
+        curr.next = (left != null) ? left : right;
+        return dummy.next;
+    }
+
     public ListNode sortList(ListNode head) {
-        ListNode temp=head;
-        ArrayList<Integer>list=new ArrayList<>();
-        while(temp!=null){
-            list.add(temp.val);
-            temp=temp.next;
+        // Base case: 0 or 1 node is already sorted
+        if (head == null || head.next == null) return head;
+
+        // Find the middle — start fast one step ahead to avoid
+        // slow == head on a 2-node list (which would cause infinite recursion)
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        Collections.sort(list,(a,b)-> a-b);
-        temp=new ListNode(0,null);
-        ListNode temp2=temp;
-        for(int i=0;i<list.size();i++){
-            temp.next=new ListNode(list.get(i),null);
-            temp=temp.next;
-        }
-        return temp2.next;
+
+        // Split into two halves
+        ListNode rightHead = slow.next;
+        slow.next = null;           // cut the list
+
+        // Recursively sort each half, then merge
+        ListNode left  = sortList(head);
+        ListNode right = sortList(rightHead);
+
+        return merge(left, right);
     }
 }
