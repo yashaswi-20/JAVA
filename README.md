@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/yashaswi-20/JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashaswi-20/JAVA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/yashaswi-20/JAVA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashaswi-20/JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/yashaswi-20/JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashaswi-20/JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashaswi-20/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/yashaswi-20/JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/yashaswi-20/JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yashaswi-20/JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashaswi-20/JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/yashaswi-20/JAVA/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/yashaswi-20/JAVA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
