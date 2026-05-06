@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashaswi-20/JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashaswi-20/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashaswi-20/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/0494-target-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashaswi-20/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/yashaswi-20/JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/yashaswi-20/JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashaswi-20/JAVA/tree/master/0416-partition-equal-subset-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashaswi-20/JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
