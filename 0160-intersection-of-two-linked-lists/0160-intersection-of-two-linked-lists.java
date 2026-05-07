@@ -14,23 +14,21 @@ public class Solution {
         
         ListNode a=headA;
         ListNode b=headB;
-        HashSet<ListNode>map= new HashSet<>();
+       
+       while(a!=b){
 
-        while(a!=null){
-
-            map.add(a);
-
+        if(a==null){
+            a=headB;
+        }else{
             a=a.next;
         }
-
-        while(b!=null){
-            if(map.contains(b)){
-                return b;
-            }
-
+        if(b==null){
+            b=headA;
+        }else{
             b=b.next;
         }
+       }
 
-        return null;
+       return a;
     }
 }
