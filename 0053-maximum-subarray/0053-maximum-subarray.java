@@ -1,21 +1,36 @@
 class Solution {
 
-
-   
-   
-    public int maxSubArray(int[] nums) {
-        int sum=nums[0];
-        int max=Integer.MIN_VALUE;
-        max=Math.max(max,sum);
-        for(int i=1;i<nums.length;i++){
-            if(sum>=0){
+    int findCross(int nums[], int start, int mid ,int end){
+        int leftMax=Integer.MIN_VALUE;
+        int sum=0;
+        for(int i=mid;i>=start;i--){
             sum+=nums[i];
-            }else{
-                sum=nums[i];
-            }
-            max=Math.max(max,sum);
+            leftMax=Math.max(sum,leftMax);
         }
-        return max;
+
+         sum=0;
+        int rightMax=Integer.MIN_VALUE;
+        for(int i=mid+1;i<=end;i++){
+            sum+=nums[i];
+            rightMax=Math.max(sum,rightMax);
+        }
+        return leftMax+rightMax;
+    }
+
+    int divide(int[] nums,int start,int end){
+        if(start==end)return nums[start];
+
+        int mid=(start+end)/2;
+        int left=divide(nums,start,mid);
+        int right=divide(nums,mid+1,end);
+        int cross=findCross(nums,start,mid,end);
+        return Math.max(left, Math.max(right,cross));
+    }
+
+    public int maxSubArray(int[] nums) {
+        
+       int res=divide(nums, 0, nums.length-1);
+       return res;
         
     }
 }
