@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashaswi-20/JAVA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yashaswi-20/JAVA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/yashaswi-20/JAVA/tree/master/0062-unique-paths) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashaswi-20/JAVA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yashaswi-20/JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/0206-reverse-linked-list) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashaswi-20/JAVA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashaswi-20/JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yashaswi-20/JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/yashaswi-20/JAVA/tree/master/0141-linked-list-cycle) |
