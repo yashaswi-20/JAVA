@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashaswi-20/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/yashaswi-20/JAVA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
 ## Sliding Window
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashaswi-20/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashaswi-20/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/yashaswi-20/JAVA/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashaswi-20/JAVA/tree/master/0148-sort-list) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/yashaswi-20/JAVA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/yashaswi-20/JAVA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
