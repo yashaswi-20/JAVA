@@ -1,46 +1,43 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
+        ListNode dummy=new ListNode(0);
+        dummy.next=head;
+        ListNode prevGroup=dummy;
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-
-        ListNode groupPrev = dummy;
-
-        while (true) {
-
-            // Find kth node
-            ListNode kth = groupPrev;
-
-            for (int i = 0; i < k; i++) {
-                kth = kth.next;
-
-                if (kth == null) {
+        while(true){
+            ListNode kth=prevGroup;
+            for(int i=0;i<k;i++){
+                kth=kth.next;
+                if(kth==null){
                     return dummy.next;
                 }
             }
 
-            // Save next group's start
-            ListNode groupNext = kth.next;
+            ListNode nextGroup=kth.next;
+            ListNode prev=nextGroup;
+            ListNode curr=prevGroup.next;
 
-            // Reverse current group
-            ListNode prev = groupNext;
-            ListNode curr = groupPrev.next;
-
-            while (curr != groupNext) {
-                ListNode next = curr.next;
-
-                curr.next = prev;
-
-                prev = curr;
-                curr = next;
+            while(curr!=nextGroup){
+                ListNode next=curr.next;
+                curr.next=prev;
+                prev=curr;
+                curr=next;
             }
 
-            // Reconnect group
-            ListNode temp = groupPrev.next;
+            ListNode temp=prevGroup.next;
+            prevGroup.next=kth;
+            prevGroup=temp;
 
-            groupPrev.next = kth;
-
-            groupPrev = temp;
         }
     }
 }
