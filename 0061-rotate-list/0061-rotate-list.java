@@ -36,15 +36,6 @@ class Solution {
         temp=slow.next;
         ListNode curr=temp;
         slow.next=null;
-        // ListNode prev=head;
-
-        // while(curr!=null){
-        //     ListNode next=curr.next;
-        //     curr.next=prev;
-        //     prev=curr;
-        //     curr=next;
-
-        // }
 
         while(temp!=null && temp.next!=null){
             temp=temp.next;
@@ -52,7 +43,6 @@ class Solution {
         if(temp!=null){
         temp.next=head;
         }
-       //System.out.println(temp.val);
         return curr;
     }
 }
