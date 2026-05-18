@@ -13,7 +13,6 @@ class Solution {
         ListNode dummy=new ListNode(0);
         dummy.next=head;
         ListNode prevGroup=dummy;
-
         while(true){
             ListNode kth=prevGroup;
             for(int i=0;i<k;i++){
@@ -37,7 +36,6 @@ class Solution {
             ListNode temp=prevGroup.next;
             prevGroup.next=kth;
             prevGroup=temp;
-
         }
     }
 }
