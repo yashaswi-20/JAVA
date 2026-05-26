@@ -20,7 +20,7 @@ class Solution {
             }
         }
  
-            int count =0;
+            int count =-1;
         while(!q.isEmpty()){
             int size=q.size();
 
@@ -52,6 +52,6 @@ class Solution {
                 }
             }
         }
-        return count-1==-1?0 : count-1;
+        return count==-1?0 : count;
     }
 }
