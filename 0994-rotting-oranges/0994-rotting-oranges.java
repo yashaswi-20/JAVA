@@ -19,7 +19,7 @@ class Solution {
                 }
             }
         }
-        boolean vis[][]=new boolean[grid.length][grid[0].length];
+ 
             int count =0;
         while(!q.isEmpty()){
             int size=q.size();
@@ -28,7 +28,7 @@ class Solution {
                 Pair p=q.poll();
                 int row=p.row;
                 int col=p.col;
-                vis[row][col]=true;
+                
                 
                 int dr[]={1,-1,0,0};
                 int dc[]={0,0,-1,1};
@@ -37,7 +37,7 @@ class Solution {
                     int tempR=row+dr[j];
                     int tempC=col + dc[j];
 
-                    if(tempR>=0 && tempR<n && tempC>=0 && tempC<m && grid[tempR][tempC]==1 && vis[tempR][tempC]==false){
+                    if(tempR>=0 && tempR<n && tempC>=0 && tempC<m && grid[tempR][tempC]==1  ){
                         q.add(new Pair(tempR,tempC));
                         grid[tempR][tempC]=2;
                     }
