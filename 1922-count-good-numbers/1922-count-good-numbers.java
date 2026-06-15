@@ -20,7 +20,7 @@ class Solution {
             }
 
             base = (base * base) % MOD;
-            exp >>= 1;
+            exp=exp/2;
         }
 
         return result;
