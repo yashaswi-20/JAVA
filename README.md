@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashaswi-20/JAVA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashaswi-20/JAVA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/yashaswi-20/JAVA/tree/master/0053-maximum-subarray) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashaswi-20/JAVA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/yashaswi-20/JAVA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/0494-target-sum) |
 ## Bit Manipulation
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/yashaswi-20/JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yashaswi-20/JAVA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/yashaswi-20/JAVA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashaswi-20/JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yashaswi-20/JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/yashaswi-20/JAVA/tree/master/0044-wildcard-matching) |
