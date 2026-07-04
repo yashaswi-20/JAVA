@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashaswi-20/JAVA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/yashaswi-20/JAVA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/yashaswi-20/JAVA/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/yashaswi-20/JAVA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/yashaswi-20/JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashaswi-20/JAVA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashaswi-20/JAVA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/yashaswi-20/JAVA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/yashaswi-20/JAVA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/0494-target-sum) |
 ## Bit Manipulation
