@@ -6,17 +6,17 @@ class Solution {
                     return;
                 }
                 
-            if(i==candidates.length){
+            if(sum>target || i==candidates.length){
                 
                 return;
             }
 
-            if(sum<=target){
+           
                 temp.add(candidates[i]);
                 //System.out.println(temp + " " + sum);
                  solve(candidates, target,i,temp,sum+candidates[i]);
                 temp.remove(temp.size()-1);
-            }
+            
                
                 //System.out.println(temp + " " + sum);
                 solve(candidates, target,i+1,temp,sum);
