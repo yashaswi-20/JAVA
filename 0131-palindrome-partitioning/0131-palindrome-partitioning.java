@@ -1,32 +1,31 @@
 class Solution {
-    List<List<String>>res=new ArrayList<>();
-    void solve(int idx, String s, ArrayList<String>temp){
+    List<List<String>>res =new ArrayList<>();
+    public List<List<String>> partition(String s) {
+        ArrayList<String>temp =new ArrayList<>();
+        solve(s,0,temp);
+        return res;
+    }
+    void solve(String s,int idx, ArrayList<String>temp){
         if(idx==s.length()){
             res.add(new ArrayList<>(temp));
-            return;
         }
 
         for(int i=idx;i<s.length();i++){
-            if(partition(i,s,idx)){
+            if(partition(s,idx,i)){
                 temp.add(s.substring(idx,i+1));
-            
-            solve(i+1,s,temp);
-            temp.remove(temp.size()-1);
+                solve(s,i+1,temp);
+                temp.remove(temp.size()-1);
             }
         }
     }
-    boolean partition(int endidx, String s,int startidx){
-        int i=startidx;
-        int j=endidx;
+    boolean partition(String s,int sidx, int eidx){
+        int i=sidx;
+        int j=eidx;
         while(i<j){
             if(s.charAt(i)!=s.charAt(j))return false;
             i++;
             j--;
         }
         return true;
-    }
-    public List<List<String>> partition(String s) {
-        solve(0,s,new ArrayList());
-        return res;
     }
 }
