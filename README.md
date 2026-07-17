@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/yashaswi-20/JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashaswi-20/JAVA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashaswi-20/JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/yashaswi-20/JAVA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/yashaswi-20/JAVA/tree/master/0120-triangle) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/yashaswi-20/JAVA/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/yashaswi-20/JAVA/tree/master/0994-rotting-oranges) |
 ## Linked List
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yashaswi-20/JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashaswi-20/JAVA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/yashaswi-20/JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashaswi-20/JAVA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yashaswi-20/JAVA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/yashaswi-20/JAVA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/yashaswi-20/JAVA/tree/master/0216-combination-sum-iii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/yashaswi-20/JAVA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/yashaswi-20/JAVA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yashaswi-20/JAVA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/yashaswi-20/JAVA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/yashaswi-20/JAVA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/yashaswi-20/JAVA/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashaswi-20/JAVA/tree/master/0424-longest-repeating-character-replacement) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yashaswi-20/JAVA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashaswi-20/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashaswi-20/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0112-path-sum) |
