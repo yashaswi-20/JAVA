@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashaswi-20/JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashaswi-20/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/yashaswi-20/JAVA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/yashaswi-20/JAVA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashaswi-20/JAVA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/yashaswi-20/JAVA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/yashaswi-20/JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashaswi-20/JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashaswi-20/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/yashaswi-20/JAVA/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/yashaswi-20/JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashaswi-20/JAVA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/yashaswi-20/JAVA/tree/master/0216-combination-sum-iii) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yashaswi-20/JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/yashaswi-20/JAVA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/yashaswi-20/JAVA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/yashaswi-20/JAVA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/yashaswi-20/JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashaswi-20/JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashaswi-20/JAVA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yashaswi-20/JAVA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/yashaswi-20/JAVA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/yashaswi-20/JAVA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/yashaswi-20/JAVA/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashaswi-20/JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/yashaswi-20/JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0516-longest-palindromic-subsequence) |
@@ -255,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashaswi-20/JAVA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/yashaswi-20/JAVA/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
