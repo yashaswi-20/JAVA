@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashaswi-20/JAVA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/yashaswi-20/JAVA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/yashaswi-20/JAVA/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/yashaswi-20/JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yashaswi-20/JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashaswi-20/JAVA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/yashaswi-20/JAVA/tree/master/0042-trapping-rain-water) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashaswi-20/JAVA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/yashaswi-20/JAVA/tree/master/0079-word-search) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashaswi-20/JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashaswi-20/JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yashaswi-20/JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/yashaswi-20/JAVA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/yashaswi-20/JAVA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/yashaswi-20/JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/yashaswi-20/JAVA/tree/master/0139-word-break) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashaswi-20/JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yashaswi-20/JAVA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/yashaswi-20/JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yashaswi-20/JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashaswi-20/JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yashaswi-20/JAVA/tree/master/0051-n-queens) |
