@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashaswi-20/JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/yashaswi-20/JAVA/tree/master/1922-count-good-numbers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashaswi-20/JAVA/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/yashaswi-20/JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashaswi-20/JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashaswi-20/JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/yashaswi-20/JAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashaswi-20/JAVA/tree/master/0090-subsets-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashaswi-20/JAVA/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashaswi-20/JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashaswi-20/JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
