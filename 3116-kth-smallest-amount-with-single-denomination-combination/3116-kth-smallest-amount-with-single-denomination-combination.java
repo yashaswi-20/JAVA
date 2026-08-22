@@ -14,8 +14,8 @@ class Solution {
                 1,
                 0,
                 mid,
-                coins,
-                k
+                coins
+                
             );
 
             if (count >= k) {
@@ -33,8 +33,8 @@ class Solution {
         long lcm,
         int selected,
         long x,
-        int[] coins,
-        long k
+        int[] coins
+        
     ) {
 
         // We have considered all coins
@@ -60,8 +60,8 @@ class Solution {
             lcm,
             selected,
             x,
-            coins,
-            k
+            coins
+            
         );
 
         // Take current coin
@@ -78,8 +78,8 @@ class Solution {
                 newLcm,
                 selected + 1,
                 x,
-                coins,
-                k
+                coins
+                
             );
         }
 
