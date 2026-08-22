@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/yashaswi-20/JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/yashaswi-20/JAVA/tree/master/1922-count-good-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashaswi-20/JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
