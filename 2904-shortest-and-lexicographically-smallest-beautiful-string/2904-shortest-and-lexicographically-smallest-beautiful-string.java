@@ -12,17 +12,12 @@ class Solution {
                 }
                 if (count == k) {
 
-                    if ((j - i + 1) < minLen) {
+                    if (temp.length() < minLen ||
+                            (temp.length() == minLen && temp.compareTo(min) < 0)) {
+
                         min = temp;
                         minLen = temp.length();
-
                     }
-                    if ((j - i + 1) == minLen) {
-                        if (temp.compareTo(min) < 0) {
-                            min = temp;
-                            minLen = temp.length();
-                        }
-                    }break;
                 }
             }
         }
