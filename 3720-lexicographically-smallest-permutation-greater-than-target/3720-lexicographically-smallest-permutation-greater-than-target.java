@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
 
     public String lexGreaterPermutation(String s, String target) {
@@ -9,43 +11,49 @@ class Solution {
 
         for (int i = n - 1; i >= 0; i--) {
 
-            // Try to make prefix [0...i-1] equal to target.
-            String prefix = target.substring(0, i);
-
-            // Check whether prefix can be formed from s.
-            int[] count = new int[26];
-
-            for (char c : chars) {
-                count[c - 'a']++;
-            }
+            // Try to match target[0...i-1]
+            StringBuilder prefix = new StringBuilder();
+            boolean[] used = new boolean[n];
 
             boolean possible = true;
 
-            for (char c : prefix.toCharArray()) {
-                if (count[c - 'a'] == 0) {
+            for (int j = 0; j < i; j++) {
+
+                boolean found = false;
+
+                for (int k = 0; k < n; k++) {
+
+                    if (!used[k] && chars[k] == target.charAt(j)) {
+                        used[k] = true;
+                        prefix.append(chars[k]);
+                        found = true;
+                        break;
+                    }
+                }
+
+                if (!found) {
                     possible = false;
                     break;
                 }
-                count[c - 'a']--;
             }
 
-            if (!possible) continue;
+            if (!possible)
+                continue;
 
-            // Find smallest character > target[i]
-            for (int c = target.charAt(i) - 'a' + 1; c < 26; c++) {
+            // Find smallest unused character > target[i]
+            for (int k = 0; k < n; k++) {
 
-                if (count[c] > 0) {
+                if (!used[k] && chars[k] > target.charAt(i)) {
 
                     StringBuilder ans = new StringBuilder(prefix);
 
-                    ans.append((char) ('a' + c));
-                    count[c]--;
+                    ans.append(chars[k]);
+                    used[k] = true;
 
-                    // Fill remaining positions with smallest chars
-                    for (int x = 0; x < 26; x++) {
-                        while (count[x] > 0) {
-                            ans.append((char) ('a' + x));
-                            count[x]--;
+                    // Add remaining characters in sorted order
+                    for (int x = 0; x < n; x++) {
+                        if (!used[x]) {
+                            ans.append(chars[x]);
                         }
                     }
 
