@@ -31,17 +31,13 @@ class Solution {
         int a2=nums.length-minIdx;
 
         //from start and end
-        System.out.println(minIdx);
+       // System.out.println(minIdx);
 
         int a3=minIdx+1 + (nums.length-mIdx);
         int e3=nums.length  - a3;
 
-        System.out.println(a1 + " "+ a2 + " " + a3 + " " +e3  );
-        // if(e1> e2 && e1 >e3) return a1;
-
-        // else if(e2 > e1 && e2>e3) return a2;
-
-        // else return a3;
+        //System.out.println(a1 + " "+ a2 + " " + a3 + " " +e3  );
+       
 
         return Math.min(a1, Math.min(a2,a3));
 
