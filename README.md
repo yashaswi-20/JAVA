@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yashaswi-20/JAVA/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yashaswi-20/JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/yashaswi-20/JAVA/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/yashaswi-20/JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashaswi-20/JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yashaswi-20/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/yashaswi-20/JAVA/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/yashaswi-20/JAVA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/yashaswi-20/JAVA/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashaswi-20/JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
