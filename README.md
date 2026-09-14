@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yashaswi-20/JAVA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yashaswi-20/JAVA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/yashaswi-20/JAVA/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/yashaswi-20/JAVA/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashaswi-20/JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1872-stone-game-viii](https://github.com/yashaswi-20/JAVA/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/yashaswi-20/JAVA/tree/master/1922-count-good-numbers) |
@@ -427,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashaswi-20/JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/yashaswi-20/JAVA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
