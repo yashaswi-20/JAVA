@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yashaswi-20/JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashaswi-20/JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yashaswi-20/JAVA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/yashaswi-20/JAVA/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashaswi-20/JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashaswi-20/JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yashaswi-20/JAVA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/yashaswi-20/JAVA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/yashaswi-20/JAVA/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/yashaswi-20/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/yashaswi-20/JAVA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/yashaswi-20/JAVA/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/yashaswi-20/JAVA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/yashaswi-20/JAVA/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/yashaswi-20/JAVA/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/yashaswi-20/JAVA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashaswi-20/JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/yashaswi-20/JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/yashaswi-20/JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/yashaswi-20/JAVA/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/yashaswi-20/JAVA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashaswi-20/JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashaswi-20/JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashaswi-20/JAVA/tree/master/0148-sort-list) |
+| [1096-brace-expansion-ii](https://github.com/yashaswi-20/JAVA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yashaswi-20/JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashaswi-20/JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashaswi-20/JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
