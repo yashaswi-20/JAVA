@@ -1,24 +1,21 @@
 class Solution {
-     void solve(ArrayList<String>res,String curr, int open ,int close,int n){
-        if(curr.length()==n*2){
-            res.add(curr);
-            return ;
+    List<String>res=new ArrayList<>();
+    void solve(int i, int j, int n,String temp){
+        if(i==n && j==n){
+            res.add(temp);
+            return;
         }
+        if(i>n || j>n)return;
 
-        if(open < n){
-            solve(res,curr+"(",open+1,close,n);
-        }
-        if(close < open){
-            solve(res , curr + ")", open, close+1 ,n);
+
+        solve(i+1,j,n,temp+'(');
+        if(i>j){
+        solve(i,j+1,n,temp+')');
         }
     }
 
     public List<String> generateParenthesis(int n) {
-        String curr="";
-        int open =0;
-        int close =0;
-        ArrayList<String>res=new ArrayList<>();
-         solve(res,curr,open,close,n);
-         return res;
+        solve(0,0,n,"");
+        return res;
     }
 }
