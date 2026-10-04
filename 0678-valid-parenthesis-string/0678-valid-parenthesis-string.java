@@ -1,30 +1,54 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int minOpen = 0;
-        int maxOpen = 0;
 
-        for (char c : s.toCharArray()) {
+        Stack<Integer> open = new Stack<>();
+        Stack<Integer> star = new Stack<>();
+
+        for (int i = 0; i < s.length(); i++) {
+
+            char c = s.charAt(i);
 
             if (c == '(') {
-                minOpen++;
-                maxOpen++;
-            } 
-            else if (c == ')') {
-                minOpen--;
-                maxOpen--;
-            } 
-            else { // '*'
-                minOpen--;  // '*' acts as ')'
-                maxOpen++;  // '*' acts as '('
+                open.push(i);
             }
 
-            minOpen = Math.max(0, minOpen);
+            else if (c == '*') {
+                star.push(i);
+            }
 
-            if (maxOpen < 0) {
+            else { // ')'
+
+                // First, try to match with '('
+                if (!open.isEmpty()) {
+                    open.pop();
+                }
+
+                // Otherwise, use '*' as '('
+                else if (!star.isEmpty()) {
+                    star.pop();
+                }
+
+                // Nothing available to match ')'
+                else {
+                    return false;
+                }
+            }
+        }
+        // System.out.println(open);
+        // System.out.println(star);
+        // Match remaining '(' with '*' acting as ')'
+        while (!open.isEmpty() && !star.isEmpty()) {
+
+            int openIndex = open.pop();
+            int starIndex = star.pop();
+
+            // '*' must come AFTER '('
+            if (starIndex < openIndex) {
                 return false;
             }
         }
 
-        return minOpen == 0;
+        // Still have unmatched '('
+        return open.isEmpty();
     }
 }
