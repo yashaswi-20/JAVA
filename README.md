@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/yashaswi-20/JAVA/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/yashaswi-20/JAVA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/yashaswi-20/JAVA/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/yashaswi-20/JAVA/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3525-find-x-value-of-array-ii](https://github.com/yashaswi-20/JAVA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashaswi-20/JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashaswi-20/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashaswi-20/JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/yashaswi-20/JAVA/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/yashaswi-20/JAVA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashaswi-20/JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashaswi-20/JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashaswi-20/JAVA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
