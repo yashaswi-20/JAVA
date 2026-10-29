@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yashaswi-20/JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashaswi-20/JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashaswi-20/JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/yashaswi-20/JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yashaswi-20/JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/yashaswi-20/JAVA/tree/master/3886-sum-of-sortable-integers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yashaswi-20/JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashaswi-20/JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashaswi-20/JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yashaswi-20/JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashaswi-20/JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashaswi-20/JAVA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yashaswi-20/JAVA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashaswi-20/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashaswi-20/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/yashaswi-20/JAVA/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/yashaswi-20/JAVA/tree/master/0207-course-schedule) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashaswi-20/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashaswi-20/JAVA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/yashaswi-20/JAVA/tree/master/0148-sort-list) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -525,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashaswi-20/JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/yashaswi-20/JAVA/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -533,4 +540,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashaswi-20/JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
