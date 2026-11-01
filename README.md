@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashaswi-20/JAVA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yashaswi-20/JAVA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yashaswi-20/JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashaswi-20/JAVA/tree/master/0207-course-schedule) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yashaswi-20/JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -541,9 +543,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yashaswi-20/JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yashaswi-20/JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashaswi-20/JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yashaswi-20/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yashaswi-20/JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
