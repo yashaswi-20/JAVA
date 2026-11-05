@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yashaswi-20/JAVA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashaswi-20/JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashaswi-20/JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashaswi-20/JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashaswi-20/JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashaswi-20/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashaswi-20/JAVA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashaswi-20/JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashaswi-20/JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashaswi-20/JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yashaswi-20/JAVA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashaswi-20/JAVA/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/yashaswi-20/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashaswi-20/JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashaswi-20/JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashaswi-20/JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashaswi-20/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yashaswi-20/JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/yashaswi-20/JAVA/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/yashaswi-20/JAVA/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashaswi-20/JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yashaswi-20/JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yashaswi-20/JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashaswi-20/JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
